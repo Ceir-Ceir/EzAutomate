@@ -1,0 +1,2 @@
+# EzAutomate
+ezapply automation bot
